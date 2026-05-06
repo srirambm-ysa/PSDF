@@ -28,6 +28,7 @@ AI is treated as a capable but unreliable junior contributor — never as a sour
 The Five Structural Problems PSDF Addresses
 
 #	Problem	Nature
+
 | #   | Problem | Nature |
 | --- | --- | --- |
 | 1   | AI has no memory between sessions | Architectural — cannot be fixed |
@@ -408,6 +409,7 @@ It is not a new methodology invented for AI. It is Test-Driven Development, Pair
 
 
 ## B. Document Control
+
 | Field | Value |
 | --- | --- |
 | Framework name | Probabilistic-Safe Development Framework |
