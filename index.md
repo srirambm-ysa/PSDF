@@ -5,10 +5,13 @@ title: Probabilistic-Safe Development Framework (PSDF)
 
 # Probabilistic-Safe Development Framework (PSDF)
 
-Version: 1.0
-Date: May 2026
-Status: Draft
-Audience: Offshore Dev Teams, Team Leads, Global Clients (Technology, Banking)
+**Version:** 1.0  
+**Date:** May 2026  
+**Status:** Draft  
+**Author:** Balaraman Sriram  
+**Audience:** Offshore Dev Teams, Team Leads, Global Clients
+
+* * *
 
 ## Preamble
 
@@ -411,6 +414,6 @@ It is not a new methodology invented for AI. It is Test-Driven Development, Pair
 | Version | 1.0 |
 | Created | May 2026 |
 | Review cycle | Every 6 months or after major AI tooling changes |
-| Owner | \[Balaraman Sriram, Your Strategic Advisor] |
+| Owner | [Balaraman Sriram, Your Strategic Advisor] |
 
 End of Document
