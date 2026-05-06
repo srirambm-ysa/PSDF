@@ -308,14 +308,14 @@ Traditional metrics remain. PSDF adds:
 ## 2.5 Tool Stack (Frugal-First)
 
 | Layer | Recommended Tool | Cost |
-| --- | --- | --- |
-| Local AI model | Ollama + DeepSeek Coder | Free |
-| IDE AI integration | Continue.dev | Free |
-| RAG over codebase | Continue.dev (built-in) | Free |
-| Prompt library | Markdown files in repo | Free |
-| Context files | AGENTS.md standard | Free |
-| Fallback (complex reasoning) | Claude API | Pay per use |
-| CI enforcement | GitHub Actions / GitLab CI | Free tier |
+| :--- | :--- | :--- |
+| **Local AI model** | Ollama + DeepSeek Coder | Free |
+| **IDE AI integration** | Continue.dev | Free |
+| **RAG over codebase** | Continue.dev (Built-in) | Free |
+| **Prompt library** | `.prompt` files in repo | Free |
+| **Context files** | `.continue/config.json` | Free |
+| **Fallback** | Claude 3.5 Sonnet API | Pay-per-use |
+| **CI enforcement** | GitHub Actions | Free tier |
 
 # SECTION 3: CLIENT-FACING FRAMEWORK
 
