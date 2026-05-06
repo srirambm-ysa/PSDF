@@ -306,6 +306,7 @@ Traditional metrics remain. PSDF adds:
 | ACD Coverage | % of acceptance criteria with corresponding tests |
 
 ## 2.5 Tool Stack (Frugal-First)
+
 | Layer | Recommended Tool | Cost |
 | --- | --- | --- |
 | Local AI model | Ollama + DeepSeek Coder | Free |
