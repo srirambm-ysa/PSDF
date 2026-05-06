@@ -27,11 +27,11 @@ The Five Structural Problems PSDF Addresses
 #	Problem	Nature
 1	AI has no memory between sessions	Architectural                   — cannot be fixed
 2	Full context must be re-supplied each session	Architectural       — can be mitigated
-3	AI hallucinates — confidently produces wrong output	Structural      — can be contained
-4	Documentation rot silently corrupts AI context	Process             — can be managed
+3	AI hallucinates — confidently produces wrong output	Structural    — can be contained
+4	Documentation rot silently corrupts AI context	Process            — can be managed
 5	Developers expect deterministic tools	Cultural                    — must be addressed
 
-#SECTION 1: INTERNAL TEAM PLAYBOOK
+# SECTION 1: INTERNAL TEAM PLAYBOOK
 
 Practical, how-to guide for developers and team leads
 
