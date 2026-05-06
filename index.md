@@ -8,7 +8,7 @@ title: Probabilistic-Safe Development Framework (PSDF)
 Version: 1.0
 Date: May 2026
 Status: Draft
-Audience: Offshore Dev Teams, Team Leads, MSME Clients
+Audience: Offshore Dev Teams, Team Leads, Global Clients (Technology, Banking)
 
 ## Preamble
 
